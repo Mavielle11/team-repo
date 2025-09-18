@@ -1,6 +1,5 @@
 Hello this is Cheskaaaagit status!
-<<<<<<< HEAD
+HEAD
 LOE
-=======
 its meeee
->>>>>>> eab0781feef74e4a45865e042d18ed21eeab9656
+
